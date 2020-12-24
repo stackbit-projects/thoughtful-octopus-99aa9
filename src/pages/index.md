@@ -8,6 +8,7 @@ sections:
     content: >-
       # Content for your home work-office location
 
+
       Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
     actions:
