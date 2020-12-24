@@ -49,7 +49,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: A New Process A Day Keeps the Doctor Away
-    subtitle: from $149.99
+    subtitle: SOPs are our
     image: images/promo.jpg
     cta:
       title: Discover
