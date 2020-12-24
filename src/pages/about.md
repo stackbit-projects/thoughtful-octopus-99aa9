@@ -59,7 +59,7 @@ sections:
           the way, you’re probably not on the same team. Then go for Teams for
           Teams the Belbin Role distribution plugin instead.
         image: images/nan_talk.jpg
-      - title: We think plants are the future
+      - title: We think SOPs are the future
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
           old. That’s why we help beginners get started with web development
