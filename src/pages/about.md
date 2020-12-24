@@ -60,7 +60,7 @@ sections:
           **Transactional Data Processing** and Solutions in **Operating Areas**
           to ensure the success of clients is maintained.
         image: images/team.jpg
-      - title: ''
+      - title: Illicitation and Content Reviews
         description: >-
           ## Lorem ipsum
 
