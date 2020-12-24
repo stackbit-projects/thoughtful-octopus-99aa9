@@ -60,7 +60,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
-    subtitle: 'Ok, maybe a home that is a requirement.'
+    subtitle: 'Ok, maybe a home that is missing as a requirement.'
     image: images/promo.jpg
     cta:
       title: Discover
