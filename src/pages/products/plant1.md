@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '49.40'
+price: '1500.40'
 title: 'Portfolio, Program and Project'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
