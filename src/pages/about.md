@@ -14,19 +14,6 @@ sections:
       and key value to drive the success and ensure our clients succeed.
 
 
-      Standard framework and work area that has in mind a clear end-user
-      experience showing exceptional gains by contributing and placing efforts
-      where, when and how they are needed most and valued at its best by end
-      users.
-
-
-      Professional services covering large amount of world best in class
-      practices within the working areas as for example **Project Management 
-      (PMI standards)**, **Human Resources (SOPs), **Transactional Data
-      Processing and Solutions in Operating Areas to ensure the success of
-      clients is maintained.
-
-
       Understanding business requirements, procedures and have focus on
       priorities when engaging with an enormous amount of varied range of work
       related tasks. Summarized as - The overall Success for Clients -
