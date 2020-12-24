@@ -60,7 +60,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
-    subtitle: ''
+    subtitle: 'Ok, maybe our funding recuirements or '
     image: images/promo.jpg
     cta:
       title: Discover
