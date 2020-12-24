@@ -12,21 +12,6 @@ sections:
       successful to current business environment. On demand, Agile and as a
       Business Partner, Just In Time with the right information (**JIT for HR**)
       and key value to drive the success and ensure our clients succeed.
-
-
-      There is a large offering of ´best practices´ and a wide range of products
-      and services offered within these areas. All combined and written in
-      important metrics to work within **“Passionate Performance which is
-      Accountable, Measurable, Responsible and Results driven by client
-      successes”.** The Basic Foundations for Trust.
-
-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
