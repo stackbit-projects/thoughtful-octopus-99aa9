@@ -49,7 +49,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: A New Process A Day Keeps the Doctor Away
-    subtitle: 'SOPs our process driven content drivers. '
+    subtitle: SOPs our process driven content drivers. A discovery session at a time.
     image: images/promo.jpg
     cta:
       title: Discover
