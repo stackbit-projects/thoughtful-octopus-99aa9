@@ -53,16 +53,13 @@ sections:
         image: images/team.jpg
       - title: Illicitation and Content Reviews
         description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Understanding business requirements, procedures and have focus on
+          priorities when engaging with an enormous amount of varied work
+          related tasks. Summarized as - The overall Success for Clients -
+          Understand the Business Requirements is in line with the basic
+          principals of client end user experiences, products, services and
+          origins. The products and services are elicited with this goal in mind
+          **“The Client Success - Within Mission, Vision and Core Values”.**
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
