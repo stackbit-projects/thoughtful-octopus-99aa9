@@ -47,16 +47,11 @@ sections:
           **“The Client Success - Within Mission, Vision and Core Values”.**
       - title: Project Review and Lessons Learned
         description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          There is a large offering of ´best practices´ and a wide range of
+          products and services offered within these areas. All combined and
+          written in important metrics to work within **“Passionate Performance
+          which is Accountable, Measurable, Responsible and Results driven by
+          client successes”.** The Basic Foundations for Trust.
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
