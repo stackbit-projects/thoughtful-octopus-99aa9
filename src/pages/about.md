@@ -48,11 +48,17 @@ sections:
         image: images/nan_talk.jpg
       - title: We think SOPs are our future
         description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+          ###### Standard framework and work area that has in mind a clear
+          end-user experience showing exceptional gains by contributing and
+          placing efforts where, when and how they are needed most and valued at
+          its best by end users.
+
+
+          ###### Professional services covering large amount of world best in
+          class practices within the working areas as for example **Project
+          Management  (PMI standards)**, **Human Resources (SOPs),
+          **Transactional Data Processing and Solutions in Operating Areas to
+          ensure the success of clients is maintained.
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
