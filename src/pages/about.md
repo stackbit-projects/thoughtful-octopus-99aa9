@@ -14,15 +14,6 @@ sections:
       and key value to drive the success and ensure our clients succeed.
 
 
-      Understanding business requirements, procedures and have focus on
-      priorities when engaging with an enormous amount of varied range of work
-      related tasks. Summarized as - The overall Success for Clients -
-      Understand the Business Requirements is in line with the basic principals
-      of client end user experiences, products, services and origins. The
-      products and services are elicited with this goal in mind **“The Client
-      Success - Within Mission, Vision and Core Values”.**
-
-
       There is a large offering of ´best practices´ and a wide range of products
       and services offered within these areas. All combined and written in
       important metrics to work within **“Passionate Performance which is
