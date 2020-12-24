@@ -51,7 +51,8 @@ sections:
           products and services offered within these areas. All combined and
           written in important metrics to work within **“Passionate Performance
           which is Accountable, Measurable, Responsible and Results driven by
-          client successes”.** The Basic Foundations for Trust.
+          client successes”.** All contributing to the documentation and Basic
+          Foundations which we Trust.
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
