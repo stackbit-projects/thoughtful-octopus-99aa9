@@ -14,7 +14,7 @@ sections:
       - src/pages/products/plant7.md
   - type: promotion_section
     section_id: promotion_section
-    title: 'A new SOP '
+    title: A new SOP every month - subscription
     subtitle: from $149.99
     image: images/Square 2.png
     cta:
