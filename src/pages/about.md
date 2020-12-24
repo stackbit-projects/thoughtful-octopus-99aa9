@@ -56,9 +56,9 @@ sections:
 
           Professional services covering large amount of world best in class
           practices within the working areas as for example **Project
-          Management  (PMI standards)**, **Human Resources (SOPs),
-          **Transactional Data Processing and Solutions in Operating Areas to
-          ensure the success of clients is maintained.
+          Management  (PMI standards)**, **Human Resources (SOPs)**,
+          **Transactional Data Processing** and Solutions in **Operating Areas**
+          to ensure the success of clients is maintained.
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
