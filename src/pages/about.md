@@ -54,8 +54,8 @@ sections:
           its best by end users.
 
 
-          ###### Professional services covering large amount of world best in
-          class practices within the working areas as for example **Project
+          Professional services covering large amount of world best in class
+          practices within the working areas as for example **Project
           Management  (PMI standards)**, **Human Resources (SOPs),
           **Transactional Data Processing and Solutions in Operating Areas to
           ensure the success of clients is maintained.
