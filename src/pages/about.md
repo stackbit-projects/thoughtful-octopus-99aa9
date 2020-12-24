@@ -5,7 +5,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: images/Asset 2.png
-    headline: We are content driven
+    headline: We are Content driven
     subtitle: >-
       About CBA Consult is about offering added value in services and products
       in Human Capital Management Area. Ensure these services are aligned to be
