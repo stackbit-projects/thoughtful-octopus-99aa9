@@ -1,7 +1,7 @@
 ---
 id: '7'
 price: '18.90'
-title: Sed consectetur
+title: Personal Coaching Sessions
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/d0eb7e69-6cdb-47e3-8d54-00f245a7e127.jpg
 default_original_image: images/plant7-lg.jpg
