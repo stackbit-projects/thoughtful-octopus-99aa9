@@ -54,10 +54,10 @@ sections:
     bulletpoints:
       - title: We love the Teams
         description: >-
-          > If you want to finish something with fast, go alone, if you go for
-          the distance then go together. If you’re experiencing too much grief
-          along the way, you’re probably not on the same team. Then go for Teams
-          for Teams the Belbin Role distribution plugin instead.
+          > If you want to finish something fast, go alone, if you go for the
+          distance then go together. If you’re experiencing too much grief along
+          the way, you’re probably not on the same team. Then go for Teams for
+          Teams the Belbin Role distribution plugin instead.
         image: images/nan_talk.jpg
       - title: We think plants are the future
         description: >-
