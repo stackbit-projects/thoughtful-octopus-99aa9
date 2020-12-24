@@ -60,6 +60,18 @@ sections:
           principals of client end user experiences, products, services and
           origins. The products and services are elicited with this goal in mind
           **“The Client Success - Within Mission, Vision and Core Values”.**
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
