@@ -14,12 +14,6 @@ sections:
       and key value to drive the success and ensure our clients succeed.
 
 
-      > If you want to finish something with fast, go alone, if you go for the
-      distance then go together. If you’re experiencing too much grief along the
-      way, you’re probably not on the same team. Then go for Teams for Teams the
-      Belbin Role distribution plugin instead.
-
-
       Standard framework and work area that has in mind a clear end-user
       experience showing exceptional gains by contributing and placing efforts
       where, when and how they are needed most and valued at its best by end
