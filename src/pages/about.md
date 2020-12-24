@@ -4,7 +4,7 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: /images/leaf-light-grey.svg
+    background_image: images/Asset 2.png
     headline: We are content driven
     subtitle: >-
       About CBA Consult is about offering added value in services and products
