@@ -1,7 +1,7 @@
 ---
 id: '2'
 price: '99.00'
-title: Integer porta
+title: Portfolio Management
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/d0eb7e69-6cdb-47e3-8d54-00f245a7e127.jpg
 default_original_image: images/d0eb7e69-6cdb-47e3-8d54-00f245a7e127.jpg
