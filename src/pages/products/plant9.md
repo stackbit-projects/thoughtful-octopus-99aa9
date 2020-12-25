@@ -1,7 +1,7 @@
 ---
 id: '9'
 price: '400.00'
-title: Fusce sagittis
+title: Modern Workforce
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/d0eb7e69-6cdb-47e3-8d54-00f245a7e127.jpg
 default_original_image: images/d0eb7e69-6cdb-47e3-8d54-00f245a7e127.jpg
